@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Chongyean
 - 👀 I’m interested in dogs
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on internship c++
-- 📫 contact with my telegram
+- 🌱 I’m currently discovers new skills
+- 💞️ I’m looking for blah blah ...
+- 📫 contact with my pegion
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: if it work dont touch it.
 
