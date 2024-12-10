@@ -3,7 +3,6 @@
 - 🌱 I’m currently discovers new skills
 - 💞️ I’m looking for blah blah ...
 - 📫 contact with my pegion
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: if it work dont touch it.
 
 <!---
